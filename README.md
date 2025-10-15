@@ -23,6 +23,18 @@ This reduces manual effort, speeds up response times, and improves accuracy, hel
 
 ---
 
+## ⚙️ Technology Stack
+
+- **Workflow Orchestration:** n8n  
+- **Backend Framework:** FastAPI  
+- **LLM Model:** OpenAI GPT-4 (or Gemini / Llama-3)  
+- **Database:** PostgreSQL  
+- **Frontend (Dashboard):** React.js  
+- **Hosting (Free Tier):** Render / Railway / Vercel  
+- **Vector Matching:** Chroma / FAISS
+
+---
+
 ## 🏗️ System Architecture
 
 The system uses multiple AI agents working together to automate the RFP process. Data flows from procurement platforms into the AI agents, which analyze, match, price, and generate proposals. Workflow automation ensures smooth orchestration from start to finish.
