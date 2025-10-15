@@ -25,13 +25,13 @@ This reduces manual effort, speeds up response times, and improves accuracy, hel
 
 ## ⚙️ Technology Stack
 
-- **Workflow Orchestration:** n8n  
-- **Backend Framework:** FastAPI  
-- **LLM Model:** OpenAI GPT-4 (or Gemini / Llama-3)  
-- **Database:** PostgreSQL  
-- **Frontend (Dashboard):** React.js  
-- **Hosting (Free Tier):** Render / Railway / Vercel  
-- **Vector Matching:** Chroma / FAISS
+- **Workflow Orchestration - ** n8n  
+- **Backend Framework - ** FastAPI  
+- **LLM Model - ** OpenAI GPT-4 (or Gemini / Llama-3)  
+- **Database - ** PostgreSQL  
+- **Frontend (Dashboard) - ** React.js  
+- **Hosting (Free Tier) - ** Render / Railway / Vercel  
+- **Vector Matching - ** Chroma / FAISS
 
 ---
 
